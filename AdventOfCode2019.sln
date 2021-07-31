@@ -23,17 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dag_09", "Dag_09\Dag_09.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dag_10", "Dag_10\Dag_10.csproj", "{2847791C-7974-4C8F-BA52-54D2CFF1520C}"
 EndProject
-<<<<<<< Updated upstream
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dag_11", "Dag_11\Dag_11.csproj", "{1257A887-84AC-4501-A112-6D8F9B9B3498}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dag_12", "Dag_12\Dag_12.csproj", "{8CEB4D51-3E93-4B63-BA57-809DC0D208E2}"
-=======
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dag_11", "Dag_11\Dag_11.csproj", "{1257A887-84AC-4501-A112-6D8F9B9B3498}"
->>>>>>> Stashed changes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dag_13", "Dag_13\Dag_13.csproj", "{B4C32F43-39FD-411A-9878-053FC5C8A1DD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dag_14", "Dag_14\Dag_14.csproj", "{B402B99A-7866-4779-A3C6-5A6D2842AF41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dag_15", "Dag_15\Dag_15.csproj", "{D2F8151F-55A2-4949-A91B-860A6B7BEFA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -97,6 +95,10 @@ Global
 		{B402B99A-7866-4779-A3C6-5A6D2842AF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B402B99A-7866-4779-A3C6-5A6D2842AF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B402B99A-7866-4779-A3C6-5A6D2842AF41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F8151F-55A2-4949-A91B-860A6B7BEFA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F8151F-55A2-4949-A91B-860A6B7BEFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F8151F-55A2-4949-A91B-860A6B7BEFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F8151F-55A2-4949-A91B-860A6B7BEFA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
